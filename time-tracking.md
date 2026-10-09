@@ -6,7 +6,7 @@ Add some information to the Call Convention and the ABI. Updated
 - Updated ABI with information about e6-executable binary header.
 - Updated the Call Convention to contain info about data types I came up with especially the strings.
 
-## 60-hour Milestone
+## 2026-10-09 60-hour Milestone
 Baseline.  
 Initial ideas, setup and previous work that had been done.
 - The E6 installer successfully boots in UEFI, got the PE64 header working in NASM.
