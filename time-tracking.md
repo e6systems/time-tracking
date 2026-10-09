@@ -5,6 +5,8 @@ Time-tracking journal for e6 documenting a 10,000-hour journey. This journey is 
 Add some information to the Call Convention and the ABI. Updated 
 - Updated ABI with information about e6-executable binary header.
 - Updated the Call Convention to contain info about data types I came up with especially the strings.
+- Add clarifying information about buffers in the Call Convention.
+- Do some minor cleanups.
 
 ## 2026-10-09 60-hour Milestone
 Baseline.  
