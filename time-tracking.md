@@ -2,7 +2,8 @@
 Time-tracking journal for e6 documenting a 10,000-hour journey. This journey is milestoned at 12-hour intervals.
 
 ## 72-hour Milestone
-Add some information to the Call Convention and the ABI. Updated 
+Add some information to the Calling Convention and the ABI. Updated.
+- Add info about 'range-terminated' strings in the Calling Convention.
 - Updated ABI with information about e6-executable binary header.
 - Updated the Call Convention to contain info about data types I came up with especially the strings.
 - Add clarifying information about buffers in the Call Convention.
