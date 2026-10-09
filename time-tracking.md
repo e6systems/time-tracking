@@ -7,6 +7,7 @@ Add some information to the Call Convention and the ABI. Updated
 - Updated the Call Convention to contain info about data types I came up with especially the strings.
 
 ## 60-hour Milestone
+Baseline.  
 Initial ideas, setup and previous work that had been done.
 - The E6 installer successfully boots in UEFI, got the PE64 header working in NASM.
 - Installer works with qemu.
