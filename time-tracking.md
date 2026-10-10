@@ -2,7 +2,9 @@
 Time-tracking journal for e6 documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
 ## 84-hour Milestone
-- Add more in ABI about checking and calculating the checksum.
+- Add more info in ABI about checking and calculating the checksum.
+- Brainstorm ideas for the ABI.
+- Edit and update the ABI file.
 
 ## 2026-10-10 72-hour Milestone
 Add some information to the Calling Convention and the ABI.
