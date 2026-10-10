@@ -5,6 +5,7 @@ Time-tracking journal for e6 documenting a 12,000-hour journey. This journey is 
 
 ## 2026-10-10 72-hour Milestone
 Add some information to the Calling Convention and the ABI.
+- Add into ABI about what happens on program entry.
 - Update calling convention with information about fixed-width strings.
 - Add info about slice records in the Calling Convention file.
 - Add info about 'range-terminated' strings in the Calling Convention.
