@@ -2,6 +2,8 @@
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
 ## 84-hour Milestone
+Got the first working version of `e6_uefi_print_uefi_string`. The function prints a UEFI string pointed to in RSI. UEFI strings are UTF16 and null-terminated.
+- First working version of e6_uefi_print_uefi_string.
 - Add more info in ABI about checking and calculating the checksum.
 - Brainstorm ideas for the ABI.
 - Edit and update the ABI file.
@@ -20,6 +22,7 @@ Add some information to the Calling Convention and the ABI.
 ## 2026-10-09 60-hour Milestone
 Baseline.  
 Initial ideas, setup and previous work that had been done.
+- Wrote installer build and test script in bash. The script automatically launches qemu.
 - The E6 installer successfully boots in UEFI, got the PE64 header working in NASM.
 - Installer works with qemu.
 - Added some fragments to the e6 book.
