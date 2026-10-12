@@ -3,6 +3,7 @@ Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is
 
 ## 2026-10-13 84-hour Milestone
 Got the first working version of `e6_uefi_print_uefi_string`. The function prints a UEFI string pointed to in RSI. UEFI strings are UTF16 and null-terminated.
+- Started work on `e6_efi_print_rax`.
 - Added stack alignment to `e6_uefi_print_uefi_string` function.
 - Cleanup the `e6_uefi_print_uefi_string` function.
 - Add idea for getting started coding to the ebook.
