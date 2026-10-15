@@ -3,6 +3,7 @@ Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is
 
 ## 96-hour Milestone
 Started this milestone with some brainstorming on e6os's installer.
+- Brainstormed and generated ideas for the e6os installer.
 - Added a TODO to the book on installing qemu and nasm on Windows, Linux, and Mac.
 - Add Wikipedia and FAT specifications to list of resources in the ebook.
 - Brainstorming on enumerating storage devices.
