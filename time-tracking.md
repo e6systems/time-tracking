@@ -1,6 +1,8 @@
 # E6 Systems - The 12,000-hour Journey
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
+## 96-hour Milestone
+
 ## 2026-10-13 84-hour Milestone
 Got the first working version of `e6_uefi_print_uefi_string`. The function prints a UEFI string pointed to in RSI. UEFI strings are UTF16 and null-terminated. Also got first working version `e6_uefi_dump_memory`. It dumps 256 consecutive bytes of memory on-screen. The memory address to dump is passed in RSI and must be 256 bytes aligned.
 - Refactored the `e6_uefi_dump_memory` function.
