@@ -3,6 +3,7 @@ Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is
 
 ## 96-hour Milestone
 Started this milestone with some brainstorming on e6os's installer. Rewrote some parts of the installer bootloader. Added a proper `.bss` section and adjusted some values in the PE32+ headers. This is done with `section .bss nobits`. `nobits` tells NASM that the section is just for address calculations and should not appear in the final compiled binary.
+- Add caution to encourage using `struc` in ebook fragment.
 - Got the installer working using `struc` and rewriting the BSS section. 
 - Used `struc` to organize the .bss section.
 - Still brainstorming on enumeration of storage devices.
