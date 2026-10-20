@@ -2,6 +2,7 @@
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
 ## 108-hour Milestone
+Enumerating storage devices turns out to be a bit more difficult than I could have imagined. Lots of indirections involved.
 
 ## 2026-10-20 96-hour Milestone
 Started this milestone with some brainstorming on e6os's installer. Rewrote some parts of the installer bootloader. Added a proper `.bss` section and adjusted some values in the PE32+ headers. This is done with `section .bss nobits`. `nobits` tells NASM that the section is just for address calculations and should not appear in the final compiled binary.
