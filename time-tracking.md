@@ -3,6 +3,7 @@ Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is
 
 ## 108-hour Milestone
 Enumerating storage devices turns out to be a bit more difficult than I could have imagined. Lots of indirections involved.
+- Got first implementation of `e6_uefi_print_rax_dec` working.
 - Successfully setup and called `HandleProtocol` but not yet tested.
 
 ## 2026-10-20 96-hour Milestone
