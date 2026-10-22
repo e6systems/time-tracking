@@ -1,7 +1,11 @@
 # E6 Systems - The 12,000-hour Journey
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
-## 108-hour Milestone
+## 120-hour Milestone
+Not sure much was achieved during the last milestone.
+- Working out bugs in the function for printing decimal fractions.
+
+## 2026-10-23 108-hour Milestone
 Enumerating storage devices turns out to be a bit more difficult than I could have imagined. Lots of indirections involved.
 - Got first working of printing fractions.
 - Brainstormed on printing fractions.
