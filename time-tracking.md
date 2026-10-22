@@ -3,6 +3,7 @@ Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is
 
 ## 108-hour Milestone
 Enumerating storage devices turns out to be a bit more difficult than I could have imagined. Lots of indirections involved.
+- Brainstormed on printing fractions.
 - Brainstormed on printing decimal numbers.
 - Complete and cleanup `e6_uefi_print_rax_dec`.
 - Got first implementation of `e6_uefi_print_rax_dec` working.
