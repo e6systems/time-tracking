@@ -2,10 +2,11 @@
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
 ## 132-hour Milestone
-- Miscellaneous brainstorming.
+- Miscellaneous brainstorming continues.
 
 ## 2026-10-24 120-hour Milestone
 Not sure much was achieved during the last milestone.
+- Miscellaneous brainstorming.
 - Wrote and tested a simple function to print new line.
 - Made corrections and handled corner cases in `e6_uefi_print_fraction`.
 - Got fraction printing to work with division by large powers of 10.
