@@ -1,6 +1,8 @@
 # E6 Systems - The 12,000-hour Journey
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
+## 132-hour Milestone
+
 ## 2026-10-24 120-hour Milestone
 Not sure much was achieved during the last milestone.
 - Wrote and tested a simple function to print new line.
