@@ -3,7 +3,8 @@ Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is
 
 ## 120-hour Milestone
 Not sure much was achieved during the last milestone.
-- Rewrote and refactored `e6_uefi_print_fraction`
+- Got fraction printing to work with division by large powers of 10.
+- Rewrote and refactored `e6_uefi_print_fraction`.
 - Resolved bugs in `e6_uefi_print_fraction` function.
 - Working out bugs in the function for printing decimal fractions.
 
