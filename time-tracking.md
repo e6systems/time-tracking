@@ -1,7 +1,12 @@
 # E6 Systems - The 12,000-hour Journey
 Time-tracking journal for e6, documenting a 12,000-hour journey. This journey is milestoned at 12-hour intervals.
 
-## 132-hour Milestone
+## 144-hour Milestone
+It looks like much of what's happening these days is a lot of brainstorming.
+
+## 2026-10-25 132-hour Milestone
+- Brainstormed ideas for filesystems.
+- Brainstormed ideas for enumerating disks and presenting list of disks to users.
 - Miscellaneous brainstorming continues.
 
 ## 2026-10-24 120-hour Milestone
